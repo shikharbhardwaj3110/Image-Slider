@@ -1,0 +1,14 @@
+* {
+  margin : 0;
+  padding: 0;
+}
+
+.app {
+  height: 100vh !important;
+  width: 100vw !important;
+}
+
+.slider-container {
+  height: 100% !important;
+  width:  100% !important;
+}
